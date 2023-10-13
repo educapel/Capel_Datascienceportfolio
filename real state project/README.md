@@ -16,7 +16,7 @@ Data preprocessing was an essential part of the project. It involved cleaning, a
 
 For the predictive modeling part, I implemented a machine learning pipeline. The pipeline included column transformers to handle different types of variables and a Ridge Regression model. Ridge Regression is a linear regression technique that's particularly useful for recognizing patterns in the data and making price predictions. This model was chosen for its ability to handle multicollinearity and produce stable predictions.
 
-Challenges Faced
+#Challenges Faced
 
 One notable challenge in this project was related to older properties with fluctuating prices. Due to variations in property values over time, it was often challenging to find reliable price data for such properties. This issue is common in real estate analysis and required careful consideration.
 
