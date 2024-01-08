@@ -1,0 +1,4 @@
+Description and Motivation
+This project is driven by the objective of managing financial risk by predicting the likelihood of loan defaults among clients. To achieve this, supervised learning methodologies, specifically Decision Tree (DT) and Random Forest (RF), are employed in this classification task. The core of the analysis involves a thorough comparison and assessment of each model's performance, utilizing various metrics to gauge their effectiveness.
+
+A significant aspect of this study is to benchmark the results against those obtained in a similar analysis by Sheikh Rabiul Islam, W. Eberle, and S. Ghafoor in 2018. This comparison is made using the same dataset, which allows for a direct evaluation of the improvements or differences in model performances over time. Such an approach not only enhances the understanding of the model's capabilities but also contributes to the broader field of machine learning in financial risk management.
